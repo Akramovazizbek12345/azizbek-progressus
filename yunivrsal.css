@@ -1,0 +1,294 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    font-family: sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: #333;
+}
+
+.navbar {
+    background-color: black;
+    height: 65px;
+    color: white;
+    position: fixed;
+    width: 100%;
+}
+
+
+
+.navbar ul li {
+    list-style: none;
+    float: right;
+    padding: 0px 17px;
+    color: #333;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.oqq {
+    color: white;
+}
+
+.ght {
+    float: left;
+    margin-top: -18px;
+}
+
+.bor {
+    display: inline-block;
+    color: #333;
+    cursor: pointer;
+    background-color: black;
+    border: 1px solid #333;
+    padding: 8px;
+    margin-top: -25px;
+}
+
+.bor:hover{
+    color: white;
+}
+
+.loo:hover{
+color: white;
+}
+.qoraa {
+    background-color: black;
+    color: #333;
+    border: none;
+}
+
+.qoraa:hover{
+    color: white;
+}
+
+.raas {
+    background-image: url(photo_2024-09-20_13-37-48.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 400px;
+}
+
+.hyu {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.katta {
+    font-size: 30px;
+    color: white;
+}
+
+.soz {
+    color: white;
+    padding-top: 5px;
+    font-size: 13px;
+}
+
+.lol {
+
+    border: 2px solid white;
+    height: 40px;
+    width: 170px;
+    background: transparent;
+    border-radius: 3px;
+}
+
+.lol:hover {
+    background-color: #ffc400;
+    color: black;
+    border: none;
+}
+
+.olo {
+    color: white;
+}
+
+.olo:hover {
+    color: #333;
+}
+
+.pol {
+    height: 40px;
+    width: 200px;
+    color: white;
+    background-color: #ffc400;
+    border: none;
+    border-radius: 3px;
+}
+
+.pol:hover {
+    background: transparent;
+    border: 2px solid white;
+}
+
+.lop:hover {
+    color: white;
+}
+
+.best {
+    font-size: 27px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.test {
+    text-align: center;
+    padding-top: 6px;
+    font-size: 13px;
+}
+
+.fat {
+    width: 16%;
+    float: left;
+    padding: 50px;
+    text-align: center;
+}
+
+.fat-free {
+    background-color: #dbd9d9;
+    color: black;
+}
+
+.poi {
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ftor {
+    background-color: #dbd9d9;
+    height: 460px;
+    margin-top: 50px;
+
+}
+
+.rotf {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.rot {
+    background-color: white;
+    height: 400px;
+    padding-top: 60px;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.which {
+    width: 40%;
+    float: left;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+
+.nice {
+    width: 40%;
+    float: left;
+    padding: 50px;
+    background-color: white;
+    color: black;
+    height: 50px;
+}
+
+.kkk {
+    font-size: 25px;
+}
+
+.kic {
+    font-size: 13px;
+}
+
+.hpr {
+    text-align: center;
+}
+
+.derr {
+    max-width: 940px;
+    margin: auto;
+}
+
+.buttonnn {
+    margin-left: 910px;
+    height: 33px;
+    width: 120px;
+    border: none;
+    border-radius: 2px;
+    background-color: darkorange;
+}
+
+.buttonnn:hover{
+    background-color:green;
+}
+
+.oqqq {
+    color: white;
+}
+
+.derr {
+    font-size: 19px;
+    background-color: rgb(223, 228, 231);
+    padding: 25px 25px;
+    border-radius: 3px;
+max-width: 1060px;
+}
+
+footer {
+    margin-top: 80px;
+}
+
+.srs {
+    width: 24%;
+    float: left;
+}
+
+#features p {
+    font-size: 10px;
+    color: #888383;
+    padding-top: 25px;
+}
+
+.kokk {
+    color: blue;
+}
+
+.sers {
+    background-color: #333;
+    color: white;
+    display: inline-block;
+}
+
+#features {
+    background-color: #333;
+    width: 90.4%;
+    padding-left: 130px;
+    height: 150px;
+}
+
+.grss-frin{
+    max-width: 1100px;
+    margin: auto;
+    width: 370px;
+}
+
+.navbar li:hover{
+    color: white;
+}
+
+i:hover{
+color: red;
+}
+
+
